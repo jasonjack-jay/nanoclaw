@@ -1,3 +1,6 @@
+# JAY
+.jay/
+
 # Dependencies
 node_modules/
 .npm-cache/
